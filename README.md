@@ -13,7 +13,7 @@
     - open 'User Settings' (File > Preferences > Settings)
     - search for 'remote'
 # share app in local dev machine to public using localtunnel
- * to install localtunnel, type in terminal
-  - npm install localtunnel
- * edit package.json's scripts section
-  - ( 'localtunnel': 'lt --port 3000 --subdomain your_subdomain_here' )
+  * to install localtunnel, type in terminal
+    - npm install localtunnel
+  * edit package.json's scripts section
+    - ( 'localtunnel': 'lt --port 3000 --subdomain your_subdomain_here' )
